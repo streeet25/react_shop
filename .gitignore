@@ -1,0 +1,4 @@
+# exclude dependencies from repository
+/node_modules/*
+.cache/
+dist/
