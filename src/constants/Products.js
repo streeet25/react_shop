@@ -5,11 +5,6 @@ export default [
     price: '10',
     imageUrl: 'milk.jpeg'
   }, {
-    id: 2,
-    title: 'Potato',
-    price: '15',
-    imageUrl: 'potato.jpeg'
-  }, {
     id: 3,
     title: 'Sausage',
     price: '20',
